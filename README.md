@@ -1,2 +1,2 @@
-# data-science
-Project_ SLYTHERIN :: Analysed Bike buyer data set to get powerful and reasonble insights.
+# Bike Buyer Analysis
+Analysed Bike buyer data set to get powerful and reasonble insights.
